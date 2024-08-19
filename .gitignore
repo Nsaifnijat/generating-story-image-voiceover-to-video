@@ -1,0 +1,10 @@
+.env
+
+.DS_Store
+credentials2.py
+# Ignore compiled Python files and cache directories
+__pycache__/
+*.py[cod]
+
+venv/
+env/
